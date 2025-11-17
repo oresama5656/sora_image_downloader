@@ -2,7 +2,7 @@
 // @name         Sora Simple Image Downloader
 // @description  Download Sora images (WebP) from current page
 // @version      1.0.0
-// @author       You
+// @author       Ryo
 // @license      MIT
 // @match        *://sora.com/*
 // @match        *://sora.chatgpt.com/*
